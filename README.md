@@ -1,4 +1,4 @@
-# HELLO GEEKS !!:boom:
+## HELLO GEEKS !!:boom:
 
 
 
@@ -13,8 +13,8 @@ I :heart: creating some innovative things from thought process to implementation
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Jyotika999)
 
 
-Feel free to ping me incase if you need any help 
-[here](https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)
+#Feel free to ping me incase if you need any help 
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)](https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jyotika9september@gmail.com)](mailto:Jyotika9september@gmail.com)
 
@@ -22,4 +22,4 @@ Feel free to ping me incase if you need any help
 
 
 
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/Jyotika999) by me :heart:
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/Jyotika999) by me :heart:.
