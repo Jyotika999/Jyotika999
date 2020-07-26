@@ -11,13 +11,13 @@ I :heart: creating some innovative things from thought process to implementation
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Jyotika999)
 
-* I am currently a Sophomore at IIITA
-* 
-
-
 
 Feel free to ping me incase if you need any help 
 [here](https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyotika-bhatti-a384a0194/))](https://www.linkedin.com/in/jyotika-bhatti-a384a0194/))
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jyotika9september@gmail.com)](mailto:Jyotika9september@gmail.com)
 
 
 
