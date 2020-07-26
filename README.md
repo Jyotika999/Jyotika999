@@ -1,9 +1,5 @@
 # HEY THERE !!:boom:
 
- 
+Hi Jyotika here !! :v:
 
-Let me introduce myself first. I am currently a Sophomore at IIIT ALLAHABAD.I am a curious learner , always having a curious journey.
-
-
-
- Feel free to ping me incase i could help you https://www.linkedin.com/in/jyotika-bhatti-a384a0194/
+Feel free to ping me incase if you need any help https://www.linkedin.com/in/jyotika-bhatti-a384a0194/
