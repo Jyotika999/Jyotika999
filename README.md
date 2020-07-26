@@ -15,9 +15,7 @@ I :heart: creating some innovative things from thought process to implementation
 Feel free to ping me incase if you need any help 
 [here](https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyotika-bhatti-a384a0194/))](https://www.linkedin.com/in/jyotika-bhatti-a384a0194/))
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jyotika9september@gmail.com)](mailto:Jyotika9september@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)](https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jyotika9september@gmail.com)](mailto:Jyotika9september@gmail.com)
 
 
 
