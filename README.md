@@ -18,8 +18,8 @@ I :heart: creating some innovative things from thought process to implementation
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)](https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jyotika9september@gmail.com)](mailto:Jyotika9september@gmail.com)
 
-##The Quote that insires me :
-#"You don't have to be great to start, but you have to start to be great".
+**The Quote that insires me :
+"You don't have to be great to start, but you have to start to be great".**
 
 
 
