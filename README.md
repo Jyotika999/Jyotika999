@@ -10,7 +10,8 @@ With Real Time things still in progress.
 
 
 
-Feel free to ping me incase if you need any help https://www.linkedin.com/in/jyotika-bhatti-a384a0194/
+Feel free to ping me incase if you need any help 
+[here](https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)
 
 
 
