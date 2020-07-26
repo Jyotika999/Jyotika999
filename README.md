@@ -4,7 +4,7 @@
 
 ----------------------------------------------------------------------------------------------------------
 I am Jyotika, currently a Sophomore at IIITA . I consider myself as a curious learner who is keen to learn stuffs which all seem interesting to me that majorly includes Front end development and Python development.
-With Real Time things still in progress.I have experience working with C++ , [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](), [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
+With Real Time things still in progress.I have experience working with C++ , [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](), [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](), [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
 , and still learning Web Development.
 I :heart: creating some innovative things from thought process to implementation is my passion.:star2:
 
@@ -18,7 +18,8 @@ I :heart: creating some innovative things from thought process to implementation
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)](https://www.linkedin.com/in/jyotika-bhatti-a384a0194/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jyotika9september@gmail.com)](mailto:Jyotika9september@gmail.com)
 
-
+##The Quote that insires me :
+#"You don't have to be great to start, but you have to start to be great".
 
 
 
