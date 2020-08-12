@@ -23,6 +23,6 @@ I :heart: creating some innovative things from thought process to implementation
 **The Quote that insires me :
 :heartpulse::green_heart::blue_heart:"You don't have to be great to start, but you have to start to be great".:heartpulse::green_heart::blue_heart:**
 
-<img src="two.gif" width="40" height="40" />
+<img src="two.gif"></img>
 
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/Jyotika999) by me :heart:.
