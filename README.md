@@ -3,7 +3,7 @@
 
 
 ----------------------------------------------------------------------------------------------------------
-//<p align="left"> <img src=https://komarev.com/ghpvc/?username=Jyotika999 alt=Jyotika999/></p> 
+<!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=Jyotika999 alt=Jyotika999/></p>   -->
  
 I am Jyotika, currently a Sophomore at IIITA . I consider myself as a curious learner who is keen to learn stuffs which all seem interesting to me that majorly includes Front end development and Python development.
 With Real Time things still in progress.I have experience working with  [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](), [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](), [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
