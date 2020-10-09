@@ -1,5 +1,13 @@
 ## HELLO GEEKS !!:boom:
-![alt-text](one.gif)
+    <!--  ![alt-text](one.gif)   -->
+    
+<img src="https://github-readme-stats.vercel.app/api/?username=Jyotika999&show_icons=true&theme=gotham" alt="github stats"/>
+
+
+
+<a href="https://github.com/Jyotika999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotika999&layout=compact&theme=gotham" /></a>
+
+
 
 
 ----------------------------------------------------------------------------------------------------------
