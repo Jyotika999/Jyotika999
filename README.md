@@ -1,13 +1,11 @@
 ## HELLO GEEKS !!:boom:
   
-    
-<img src="https://github-readme-stats.vercel.app/api/?username=Jyotika999&show_icons=truetheme=gotham" alt="github stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/?username=Jyotika999&show_icons=false&theme=gotham" alt="github stats"/>
 
 
 
-<a href="https://github.com/Jyotika999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotika999&layout=compacttheme=gotham" /></a>
-
-
+<a href="https://github.com/Jyotika999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotika999&layout=compact&theme=gotham" /></a>
 
 
 ----------------------------------------------------------------------------------------------------------
