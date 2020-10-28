@@ -1,7 +1,7 @@
 ## HELLO GEEKS !!:boom:
   
 
-<img src="https://github-readme-stats.vercel.app/api/?username=Jyotika999&show_icons=false&theme=gotham" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=Jyotika999&show_icons=true&theme=gotham" alt="github stats"/>
 
 
 
