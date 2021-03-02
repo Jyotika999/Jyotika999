@@ -1,17 +1,14 @@
 ## HELLO GEEKS !!:boom:
   
 
-<img src="https://github-readme-stats.vercel.app/api/?username=Jyotika999&show_icons=true&theme=gotham" alt="github stats"/>
-
-
-
-<a href="https://github.com/Jyotika999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotika999&layout=compact&theme=gotham" /></a>
-
 
 ----------------------------------------------------------------------------------------------------------
- <p align="left"> <img src=https://komarev.com/ghpvc/?username=Jyotika999 alt=Jyotika999/></p>    
+<!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=Jyotika999 alt=Jyotika999/></p>     -->
  
- 
+  
+![README FILE](https://socialify.git.ci/Jyotika999/Jyotika999/image?language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+
+
  
 I am Jyotika, currently a Sophomore at IIITA . I consider myself as a curious learner who is keen to learn stuffs which all seem interesting to me that majorly includes Front end development and Python development.
 With Real Time things still in progress.I have experience working with  [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](), [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](), [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
@@ -37,6 +34,14 @@ I :heart: creating some innovative things from thought process to implementation
 
 **The Quote that insires me :
 :heartpulse::green_heart::blue_heart:"You don't have to be great to start, but you have to start to be great".:heartpulse::green_heart::blue_heart:**
+
+ 
+<img src="https://github-readme-stats.vercel.app/api/?username=Jyotika999&show_icons=true&theme=gotham" alt="github stats"/>
+
+
+
+<a href="https://github.com/Jyotika999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotika999&layout=compact&theme=gotham" /></a>
+
 
 ![alt-text](two.gif)
 
