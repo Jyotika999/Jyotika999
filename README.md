@@ -6,7 +6,7 @@
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=Jyotika999 alt=Jyotika999/></p>     -->
  
   
-![README FILE](https://socialify.git.ci/Jyotika999/Jyotika999/image?language=1&owner=1&pattern=Brick%20Wall&theme=Dark)
+![README FILE](https://socialify.git.ci/Jyotika999/Jyotika999/image?pattern=Brick%20Wall&theme=Dark)
 
 
  
