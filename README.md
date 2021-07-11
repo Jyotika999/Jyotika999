@@ -20,7 +20,7 @@ I :heart: creating some innovative things from thought process to implementation
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotika999&" alt="Jyotika999" /></p> -->
 
 ### My Github Trophies:-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jyotika999&theme=gruvbox)](https://github.com/Jyotika999/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jyotika999&theme=gruvbox)]
 
 </br>
 
