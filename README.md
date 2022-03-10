@@ -12,7 +12,7 @@ Hey Visitor!!
 I am Jyotika, a prefinal year student at IIIT Allahabad. 
 I :heart: creating some innovative things from thought process to implementation which have become my passion.:star2:
 
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
  
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotika999&" alt="Jyotika999" /></p> -->
 
