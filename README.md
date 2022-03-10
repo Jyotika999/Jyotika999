@@ -12,7 +12,7 @@ Hey Visitor!!
 I am Jyotika, a prefinal year student at IIIT Allahabad. 
 I :heart: creating some innovative things from thought process to implementation which have become my passion.:star2:
 
-![snake gif](https://github.com/Jyotika999/Jyotika999/blob/output/github-contribution-grid-snake.gif)
+
  
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotika999&" alt="Jyotika999" /></p> -->
 
@@ -35,7 +35,7 @@ I :heart: creating some innovative things from thought process to implementation
  
 <img src="https://github-readme-stats.vercel.app/api/?username=Jyotika999&show_icons=true&theme=gotham" alt="github stats"/>
 
-
+![snake gif](https://github.com/Jyotika999/Jyotika999/blob/output/github-contribution-grid-snake.gif)
 
 <a href="https://github.com/Jyotika999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotika999&layout=compact&theme=gotham" /></a>
 
